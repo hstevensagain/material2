@@ -31,7 +31,8 @@ $md-tab-bar-height: 48px !default;
   box-sizing: border-box;
   color: currentColor;
   opacity: 0.6;
-  min-width: 160px;
+  width: 100%;
+  max-width: 264px;
   text-align: center;
   &:focus {
     outline: none;
